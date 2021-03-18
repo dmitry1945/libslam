@@ -4,13 +4,17 @@
 	ignore = dirty
 [submodule "thirdparty/eigen"]
 	path = thirdparty/eigen
-	url = https://github.com/eigenteam/eigen-git-mirror.git
+	url = https://gitlab.com/libeigen/eigen.git
 	ignore = dirty
 [submodule "thirdparty/dbow3"]
 	path = thirdparty/dbow3
-	url = https://github.com/rmsalinas/DBow3.git
+	url = https://github.com/dmitry1945/DBow3.git
 	ignore = dirty
 [submodule "thirdparty/random"]
 	path = thirdparty/random
 	url = https://github.com/effolkronium/random.git
+	ignore = dirty
+[submodule "thirdparty/g2o"]
+	path = thirdparty/g2o
+	url = https://github.com/dmitry1945/g2o.git
 	ignore = dirty
